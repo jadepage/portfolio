@@ -4,8 +4,6 @@ import { Timeline, Events, UrlButton, ImageEvent } from "@merc/react-timeline";
 // projects
 import L_RitchieFord from "../../assets/img/projects/ritchie.png";
 
-import L_ProductHuntClone from "../../assets/img/projects/product_hunt_clone.webp";
-import L_PortfolioUsingDjango from "../../assets/img/projects/portfolioUsingDjango.webp";
 import L_MFG from "../../assets/img/projects/mfg.PNG";
 import L_Amazon from "../../assets/img/projects/amazon.PNG";
 import L_TextEditor from "../../assets/img/projects/texteditor.PNG";
@@ -14,23 +12,16 @@ import Accordion from "react-bootstrap/Accordion";
 import Card from "react-bootstrap/Card";
 
 // skills
-
 import L_REACT from "../../assets/img/skills/react.svg";
-import L_NODE_JS from "../../assets/img/skills/nodejs.svg";
 import L_EXPRESS from "../../assets/img/skills/express.svg";
-import L_POSTGRESQL from "../../assets/img/skills/postgresql.svg";
 import Image from "react-bootstrap/Image";
-import L_REDUX from "../../assets/img/skills/redux.svg";
 import L_HTML5 from "../../assets/img/skills/html-5.svg";
 import L_CSS3 from "../../assets/img/skills/css3.svg";
 import L_BOOTSTRAP4 from "../../assets/img/skills/bootstrap-4.svg";
-import L_DJANGO from "../../assets/img/skills/django.svg";
-import L_DIGITAL_OCEAN from "../../assets/img/skills/digital-ocean.svg";
 import L_FIREBASE from "../../assets/img/skills/firebase.png";
 import L_STRIPE from "../../assets/img/skills/stripe.png";
 import L_GITHUB from "../../assets/img/skills/github.svg";
 import L_JAVASCRIPT from "../../assets/img/skills/javascript.svg";
-
 import L_WORDPRESS from "../../assets/img/skills/wordpress.png";
 
 import "./projects-timeline.styles.css";
