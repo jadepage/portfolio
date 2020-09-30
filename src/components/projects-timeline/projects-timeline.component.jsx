@@ -95,17 +95,17 @@ const TimeLine = () => {
                             </span>
                           </li>
                           <li>
-                            <li>
-                              <span className="p-2">
-                                <Image
-                                  src={L_JAVASCRIPT}
-                                  alt="JavaScript"
-                                  rounded
-                                  className="image-style m-1"
-                                ></Image>{" "}
-                                JavaScript
-                              </span>
-                            </li>
+                            <span className="p-2">
+                              <Image
+                                src={L_JAVASCRIPT}
+                                alt="JavaScript"
+                                rounded
+                                className="image-style m-1"
+                              ></Image>{" "}
+                              JavaScript
+                            </span>
+                          </li>
+                          <li>
                             <span className="p-2">
                               <Image
                                 src={L_WORDPRESS}
@@ -225,7 +225,6 @@ const TimeLine = () => {
           </ImageEvent>
 
           {/* Project: Amazon Clone */}
-
           <ImageEvent
             date="12/09/2020"
             className="text-center"
@@ -282,17 +281,17 @@ const TimeLine = () => {
                             </span>
                           </li>
                           <li>
-                            <li>
-                              <span className="p-2">
-                                <Image
-                                  src={L_JAVASCRIPT}
-                                  alt="JavaScript"
-                                  rounded
-                                  className="image-style m-1"
-                                ></Image>{" "}
-                                JavaScript
-                              </span>
-                            </li>
+                            <span className="p-2">
+                              <Image
+                                src={L_JAVASCRIPT}
+                                alt="JavaScript"
+                                rounded
+                                className="image-style m-1"
+                              ></Image>{" "}
+                              JavaScript
+                            </span>
+                          </li>
+                          <li>
                             <span className="p-2">
                               <Image
                                 src={L_REACT}
@@ -337,9 +336,8 @@ const TimeLine = () => {
                             </span>
 
                             <p>
-                              Haven't added the a link to the code beacuse I'm
-                              still trying to figure out on how to hide the API
-                              Key.
+                              Haven't added a link to the code beacuse I'm still
+                              trying to figure out on how to hide the API Key.
                             </p>
                           </li>
                         </ul>

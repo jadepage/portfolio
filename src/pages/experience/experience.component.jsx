@@ -37,7 +37,7 @@ const Experience = () => {
                     <br />
                     <strong>Description:</strong> Designing, developing &
                     maintaining clients websites.
-                    <br /> Resonsible for all clients Google Ads Campaigns.
+                    <br /> Responsible for all clients Google Ads Campaigns.
                     <br />
                     <strong>Technology:</strong> JavaScript, HTML5, CSS3
                     <br />
